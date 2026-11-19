@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 6848eec8fdc3910429c4caee287c2b87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2250491981594218577
+    second: LogoCompleta_0
+  - first:
+      213: -8370357763780805990
+    second: LogoCompleta_1
+  - first:
+      213: 7343919245629615086
+    second: LogoCompleta_2
+  - first:
+      213: -7321351195127237647
+    second: LogoCompleta_3
+  - first:
+      213: 6462792313313069540
+    second: LogoCompleta_4
+  - first:
+      213: -1917883324027648171
+    second: LogoCompleta_5
+  - first:
+      213: -8338953965353205614
+    second: LogoCompleta_6
+  - first:
+      213: 7476800271550164441
+    second: LogoCompleta_7
+  - first:
+      213: -7286821057645958320
+    second: LogoCompleta_8
+  - first:
+      213: -8721636778658319304
+    second: LogoCompleta_9
+  - first:
+      213: -1645306221438835506
+    second: LogoCompleta_10
+  - first:
+      213: 227205311985455436
+    second: LogoCompleta_11
+  - first:
+      213: 4208003285426295779
+    second: LogoCompleta_12
+  - first:
+      213: 8128013122221180487
+    second: LogoCompleta_13
+  - first:
+      213: 7927453625799093346
+    second: LogoCompleta_14
+  - first:
+      213: 3416592387332421419
+    second: LogoCompleta_15
+  - first:
+      213: -4387492263965258192
+    second: LogoCompleta_16
+  - first:
+      213: -2858337189247539354
+    second: LogoCompleta_17
+  - first:
+      213: -6205961921371609834
+    second: LogoCompleta_18
+  - first:
+      213: -3219633676615085249
+    second: LogoCompleta_19
+  - first:
+      213: -6287791495330610000
+    second: LogoCompleta_20
+  - first:
+      213: 9006442526542338313
+    second: LogoCompleta_21
+  - first:
+      213: -8669929022383204922
+    second: LogoCompleta_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LogoCompleta_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 78
+        width: 160
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf26336775a4c0e0800000000000000
+      internalID: -2250491981594218577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 180
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a79ee36f386db80800000000000000
+      internalID: -8370357763780805990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 180
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb68e6e4a7dae560800000000000000
+      internalID: 7343919245629615086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 179
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f33f82d0e5556a90800000000000000
+      internalID: -7321351195127237647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 180
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9862c1e5370b950800000000000000
+      internalID: 6462792313313069540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 180
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557cfa6374f4265e0800000000000000
+      internalID: -1917883324027648171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 180
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29089c8dc85164c80800000000000000
+      internalID: -8338953965353205614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 180
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddaa42bb3ee2c760800000000000000
+      internalID: 7476800271550164441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_8
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 179
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b2d25fad200ea90800000000000000
+      internalID: -7286821057645958320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_9
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 179
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834b61c1f8586f680800000000000000
+      internalID: -8721636778658319304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_10
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 180
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4e56475b2ba29e0800000000000000
+      internalID: -1645306221438835506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 105
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4199f70702372300800000000000000
+      internalID: 227205311985455436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 105
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3d28171b4d56a30800000000000000
+      internalID: 4208003285426295779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_13
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 105
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74605bfded08cc070800000000000000
+      internalID: 8128013122221180487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 105
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c232b3219f30e60800000000000000
+      internalID: 7927453625799093346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 105
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27b045acac2a6f20800000000000000
+      internalID: 3416592387332421419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 105
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e8397280f7c13c0800000000000000
+      internalID: -4387492263965258192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_17
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 105
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667ac9278752558d0800000000000000
+      internalID: -2858337189247539354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_18
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 105
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6156b0b538effd9a0800000000000000
+      internalID: -6205961921371609834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_19
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 134
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33197eba309153d0800000000000000
+      internalID: -3219633676615085249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_20
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 105
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4c81bf2f64db8a0800000000000000
+      internalID: -6287791495330610000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_21
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 105
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909178c72cf4dfc70800000000000000
+      internalID: 9006442526542338313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoCompleta_22
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 105
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5dff84d793ea780800000000000000
+      internalID: -8669929022383204922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LogoCompleta_0: -2250491981594218577
+      LogoCompleta_1: -8370357763780805990
+      LogoCompleta_10: -1645306221438835506
+      LogoCompleta_11: 227205311985455436
+      LogoCompleta_12: 4208003285426295779
+      LogoCompleta_13: 8128013122221180487
+      LogoCompleta_14: 7927453625799093346
+      LogoCompleta_15: 3416592387332421419
+      LogoCompleta_16: -4387492263965258192
+      LogoCompleta_17: -2858337189247539354
+      LogoCompleta_18: -6205961921371609834
+      LogoCompleta_19: -3219633676615085249
+      LogoCompleta_2: 7343919245629615086
+      LogoCompleta_20: -6287791495330610000
+      LogoCompleta_21: 9006442526542338313
+      LogoCompleta_22: -8669929022383204922
+      LogoCompleta_3: -7321351195127237647
+      LogoCompleta_4: 6462792313313069540
+      LogoCompleta_5: -1917883324027648171
+      LogoCompleta_6: -8338953965353205614
+      LogoCompleta_7: 7476800271550164441
+      LogoCompleta_8: -7286821057645958320
+      LogoCompleta_9: -8721636778658319304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
